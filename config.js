@@ -1,7 +1,7 @@
-const ownerNumber = ["5521986668556@s.whatsapp.net"] 
+const ownerNumber = ["558291099267@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '5521986668556' 
+const OriginalOwner = '558291099267' 
 // mude para seu numero
 
 var gimagenotregister = true
@@ -34,7 +34,7 @@ const apikeyimgbb = 'f803ac10228ceed0df2420dd9d797c8a'
 const cr = '@figurinhas_whatsapp\n' 
 // texto do simbolo de verificado
 
-const prefix = '!' 
+const prefix = '/' 
 // prefixo
 
 const blockedmsg = '*😜 Seu número esta bloqueado, ou seja não ouvindo você 😜*'
